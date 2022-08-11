@@ -1,0 +1,16 @@
+.footer {
+    background-color: #6278F7;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.footer img {
+    margin-right: 16px;
+}
+
+.logo-rodape img {
+    width: 80px;
+}

@@ -1,0 +1,45 @@
+.pokemon {
+    width: 280px;
+    margin-bottom: 20px;
+}
+
+.pokemon .cabecalho {
+    background-color: #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.pokemon img {
+    width: 100px;
+    position: relative;
+    bottom: -50px;
+}
+
+.pokemon .rodape {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 90px;
+    padding-bottom: 40px;
+}
+
+.pokemon .rodape h4 {
+    color: #6278F7;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.apagar {
+    margin-top: -50px;
+    margin-bottom: 30px;
+    height: 40px;
+}
+
+.apagar img {
+    width: 25px;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+
+.apagar img:hover {
+    width: 30px;
+}
